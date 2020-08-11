@@ -1,0 +1,1012 @@
+/* HEADER */
+
+
+.Rectangle-41 {
+    display: flex;
+    justify-content: space-between;
+    width: 1920px;
+    height: 678px;
+    background-color: #ffffff;
+}
+.IMG_6984-22-05-19-02-58 {
+    width: 1040px;
+    height: 677px;
+    object-fit: contain;
+    background-image: url("img/IMG_6984-22-05-19-02-58.png");
+    background-position: left;
+    margin-left: auto;
+}
+.Ellipse-3 {
+    width: 1135px;
+    height: 677px;
+    background-size: cover;
+    background:
+            radial-gradient(ellipse 184% 250% at right, rgba(246, 212, 198, 0.9) 50%, transparent 50%),
+            radial-gradient(ellipse 200% 250% at right, rgba(248, 236, 232, 0.5) 50%, transparent 50%);
+}
+.Logo {
+    width: 255px;
+    height: 58px;
+    object-fit: contain;
+    margin-bottom: 58px;
+
+}
+.text_40minut {
+    width: 349px;
+    height: 99px;
+    font-family: Geometria;
+    font-size: 43px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: 0.88px;
+    text-align: left;
+    color: #1f1f1f;
+    margin-bottom: -51px;
+}
+.text_2000 {
+    width: 254px;
+    height: 78px;
+    font-family: Geometria;
+    font-size: 78px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.81;
+    letter-spacing: -3.12px;
+    text-align: left;
+    color: #1f1f1f;
+
+}
+a:hover {
+color: white;
+     text-decoration: none;
+ }
+ a{
+     color:#ffffff;
+ }
+.button{
+    width: 255px;
+    height: 60px;
+    box-shadow: 0 4px 10px 0 rgba(31, 31, 31, 0.5);
+    background-color: #1f1f1f;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.75;
+    letter-spacing: 0.32px;
+    text-align: center;
+    padding: 0px 0px 0px 25px;
+}
+.button_p {
+    width: 255px;
+    height: 60px;
+    box-shadow: 0 4px 10px 0 rgba(31, 31, 31, 0.5);
+    background-color: #1f1f1f;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.75;
+    letter-spacing: 0.32px;
+    text-align: center;
+}
+.button:after {
+    transition: margin 7s;
+    opacity: 0;
+    margin-left: 20px;
+    content: '\f054';
+    font-family: 'FontAwesome';
+    display: inline-block;
+}
+
+.button:hover{color:#ffffff;}
+.button:hover:after {
+    transition: margin .35s, opacity .1s;
+    opacity: 1;
+}
+i.fa.fa-chevron-right{
+    width: 12.7px;
+    height: 12.7px;
+    color: white;
+    padding: 5.1px;
+}
+.block{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 0px 0px 0px 405px;
+}
+.head_keyvisual {
+    width: 665px;
+    height: 678px;
+    -webkit-backdrop-filter: blur(30px);
+    backdrop-filter: blur(30px);
+    box-shadow: 15px 10px 30px 0 rgba(31, 31, 31, 0);
+    background-image: url("img/head_keyvisual.png");
+    object-fit: contain;
+    position: absolute;
+    right: 470px;
+    left:785px;
+}
+.telephone{
+    width: 148px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.75;
+    letter-spacing: 0.32px;
+    text-align: right;
+    color: #1f1f1f;
+    margin-left: 40px;
+    padding: 0px 0px 25px 0px;
+}
+.email {
+    width: 186px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.75;
+    letter-spacing: 0.32px;
+    text-align: right;
+    color: #1f1f1f;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 1329px;
+    right: 405px;
+    top: 50px;
+}
+.Ellipse-7 {
+    width: 30px;
+    height: 30px;
+    border: solid 1px #1f1f1f;
+    border-radius: 30px;
+    padding: 1px 7px;
+    margin-right: 20px;
+}
+.vk {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+.facebook {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+.contacts {
+    display: flex;
+    /* justify-content: right; */
+    /* padding: 50px 0px 0px 0px; */
+    position: absolute;
+    top: 70px;
+    left: 57px;
+}
+
+
+/* HEADER*/
+
+
+.Back_2 {
+    width: 1920px;
+    height: 500px;
+    background-color: #efefef;
+}
+.Shadow {
+    width: 530.2px;
+    height: 300.2px;
+    background-color: #1f1f1f;
+}
+.o_studii{
+    width: 181px;
+    height: 30px;
+    font-family: Geometria;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: 3px;
+    text-align: left;
+    color: #1f1f1f;
+    white-space: nowrap;
+}
+.shadow_studiya {
+    width: 255px;
+    height: 15px;
+    background-color: #f6d4c6;
+}
+.video {
+    width: 530.2px;
+    height: 300.2px;
+    border: #1f1f1f 1px;
+}
+.wrapper{
+    z-index: 1;
+    display:flex;
+    width:auto;
+    position:absolute;
+    top:-25px;
+}
+.playpause {
+    background-image:url(video/play-button.png);
+    background-repeat:no-repeat;
+    width:65px;
+    height:65px;
+    margin: auto;
+    position: absolute;
+    top: 40%;
+    right: 45%;
+    background-size:contain;
+    background-position: center;
+}
+
+video.video {
+    box-shadow: 9.8px 9.8px;
+}
+h1.o_studii {
+    padding: 39.8px 764px 50px 600px;
+}
+.shadow_studiya {
+    margin-top: -30px;
+}
+.-Doll-House- {
+    width: 540px;
+    height: 133px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+p.-Doll-House_text {
+    margin-top: 30px;
+}
+p.-Doll-House_text_1 {
+    margin-top: 50px;
+}
+.Rectangle-35 {
+    width: 10px;
+    height: 20px;
+    background-color: #f6d4c6;
+}
+.h2_3{
+    width: 230px;
+    height: 20px;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #1f1f1f;
+}
+.h2_2{
+    width: 142px;
+    height: 20px;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #1f1f1f;
+}
+.h2_1 {
+    width: 126px;
+    height: 20px;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #1f1f1f;
+}
+.Rectangle-35 {
+    display: flex;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+.col{
+    margin-top: 50px;
+}
+.text_1 {
+    width: 330px;
+    height: 62px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.text_2 {
+    width: 330px;
+    height: 62px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.Services_back {
+    width: 1920px;
+    height: 1870px;
+    background-color: #ffffff;
+}
+.title_h1 {
+    width: 302px;
+    height: 30px;
+    font-family: Geometria;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: 3px;
+    text-align: left;
+    color: #1f1f1f;
+    white-space: nowrap;
+    padding: 60px 0px 0px 405px;
+}
+.shadow_title_h1 {
+    width: 350px;
+    height: 14px;
+    background-color: #f6d4c6;
+    margin-top: -30px;
+}
+.card-header {
+    width: 350px;
+    height: 90px;
+    background-color: #f6d4c6;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #1f1f1f;
+}
+p.card-title {
+    width: 183px;
+    height: 39px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card_string {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+.price{
+    width: 54px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+    margin-top: 8px;
+}
+.card-title-2{
+    width: 142px;
+    height: 39px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.price-2{
+    width: 56px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+    margin-top: 8px;
+}
+.card-body {
+    background-color: #efefef;
+}
+.card-title-3{
+    width: 166px;
+    height: 39px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.price-3{
+    width: 55px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card-title-4{
+    width: 155px;
+    height: 39px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card-title-5{
+    width: 142px;
+    height: 39px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card-title-6{
+    width: 194px;
+    height: 39px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.price-5{
+    width: 63px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.service_card_element {
+    width: 300px;
+    height: 6px;
+    background-color: #1f1f1f;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-bottom: -19px;
+}
+.card-title-7{
+    width: 144px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.price-6{
+    width: 114px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: left;
+    color: #1f1f1f
+}
+.card-title-8{
+    width: 138px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.price-7{
+    width: 58px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card-title-8{
+    width: 156px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card-title-9{
+    width: 152px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card-title-10{
+    width: 190px;
+    height: 62px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card-title-11{
+    width: 192px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card_title_back {
+    width: 730px;
+    height: 90px;
+    background-color: #f6d4c6;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 4;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #1f1f1f;
+}
+.card-title-12{
+    width: 321px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+    white-space: nowrap;
+}
+.price-12{
+    width: 56px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.5;
+    text-align: left;
+    color: #1f1f1f;
+}
+.service_card_element_12{
+    width: 600px;
+    height: 6px;
+    background-color: #1f1f1f;
+    display: inline-block;
+    vertical-align: bottom;
+    /* margin: auto; */
+    margin-left: 45px;
+    margin-bottom: -19px;
+}
+.card-title-13{
+    width: 212px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: 1.6px;
+    text-align: left;
+    color: #1f1f1f;
+    white-space: nowrap;
+}
+.price-13{
+    width: 115px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.5;
+    text-align: left;
+    color: #1f1f1f;
+}
+.price-14{
+    width: 48px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card{
+    border-radius: 0px ;
+}
+.card_string-1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+.years_work{
+    width:1920px ;
+    height: 449px;
+    background-color: #efefef;
+    margin-top: 60px;
+}
+.Ellipse-1{
+    width: 160px;
+    height: 160px;
+    box-shadow: 0 4px 10px 0 rgba(246, 212, 198, 0.6);
+    background-color: #f6d4c6;
+    border-radius: 160px;
+}
+.r-1-Ellipse {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px 200px 220px 200px;
+}
+p.r-1-Ellipse_text_1{
+    width: 120px;
+    height: 60px;
+    font-family: Geometria;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #1f1f1f;
+    padding: 55px 20px 50px 20px;
+}
+p.r-1-Ellipse_text{
+    width: 77px;
+    height: 60px;
+    font-family: Geometria;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #1f1f1f;
+    padding: 55px 40px 50px 40px;
+}
+@font-face {
+font-family: 'Geometria';
+src: local('Geometria Bold'), local('Geometria-Bold'),
+url('fonts/Geometria-Bold.ttf') format('truetype');
+font-weight: bold;
+font-style: normal;
+}
+@font-face {
+font-family: 'Geometria';
+src: local('Geometria'),
+url('fonts/Geometria.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+.r-2-Ellipse2_text{
+    width: 156px;
+    height: 49px;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.45;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #1f1f1f;
+    margin-top: 20px;
+}
+.r-2-Ellipse2_text-2{
+    width: 232px;
+    height: 49px;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.45;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #1f1f1f;
+    margin-top: 20px;
+}
+.r-2-Ellipse2_text-3{
+    width: 272px;
+    height: 49px;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.45;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #1f1f1f;
+    margin-top: 20px;
+}
+.r-2-Ellipse {
+    padding: 0px 0px 40px 205px;
+}
+.Gallery-back {
+    width: 1920px;
+    height: 770px;
+    background-color: #ffffff;
+}
+.shadow_title_h1-3 {
+    width: 540px;
+    height: 14px;
+    background-color: #f6d4c6;
+    margin-top: -30px;
+}
+.master{
+    height: 1141px;
+    width: 1920px;
+    background-color: #efefef;
+}
+.card-title-name{
+    width: 123px;
+    height: 20px;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #1f1f1f;
+}
+.card-text{
+    width: 218px;
+    height: 62px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: 1.6px;
+    text-align: left;
+    color: #1f1f1f;
+    margin-top: 15px;
+}
+.service_card_element_master {
+    width: 201px;
+    height: 6px;
+    background-color: #1f1f1f;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-bottom: -19px;
+}
+.Back {
+    width: 1920px;
+    height: 800px;
+    background-color: #ffffff;
+}
+.dollhouse_irk {
+    width: 181px;
+    height: 20px;
+    font-family: Geometria;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.45;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #1f1f1f;
+}
+.gis{
+    height: 621px;
+    background-color: #efefef;
+    width: 1920px;
+  }
+.tel{
+    width: 145px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.75;
+    letter-spacing: 0.32px;
+    text-align: left;
+    color: #1f1f1f;
+    white-space: nowrap;
+    margin-bottom: 21px;
+    margin-top: 50px;
+}
+.mail {
+    margin-bottom: 60px;
+    width: 179px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.75;
+    letter-spacing: 0.32px;
+    text-align: left;
+    color: #1f1f1f;
+}
+.adress{
+    margin-bottom: 60px;
+    width: 232px;
+    height: 16px;
+    font-family: Geometria;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f
+}
+.contacts_irk {
+    display: flex;
+    margin-bottom: 101px;
+}
+.dollhouse_irk_contacts {
+    display: flex;
+    margin-left: -15px;
+    flex-direction: column;
+}
+ymaps.ymaps-2-1-74-map{
+    box-shadow: 9.9px 9.9px;
+}
+.Rectangle-43 {
+    width: 1920px;
+    height: 171px;
+    background-color: #1f1f1f;
+    display: flex;
+    justify-content: space-around;
+}
+.logo_white {
+    width: 160px;
+    height: 37px;
+    object-fit: contain;
+}
+.beaty_studio {
+    white-space: nowrap;
+    width: 243px;
+    height: 14px;
+    font-family: Geometria;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #efefef;
+}
+.Rectangle-43_text1{
+    display: grid;
+    margin-top: 40px;
+    /* vertical-align: bottom; */
+}
